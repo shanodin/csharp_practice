@@ -1,0 +1,7 @@
+C:\Users\alicer\Documents\C# Learning\Classes\Classes\bin\Debug\Classes.exe.config
+C:\Users\alicer\Documents\C# Learning\Classes\Classes\bin\Debug\Classes.exe
+C:\Users\alicer\Documents\C# Learning\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\alicer\Documents\C# Learning\Classes\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\alicer\Documents\C# Learning\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\alicer\Documents\C# Learning\Classes\Classes\obj\Debug\Classes.exe
+C:\Users\alicer\Documents\C# Learning\Classes\Classes\obj\Debug\Classes.pdb
