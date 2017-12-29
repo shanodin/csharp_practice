@@ -14,6 +14,22 @@ namespace Grades
         }
 
         List<float> grades;
+        public String Name
+        {
+            get
+            {
+                return _name;
+            }
+            set
+            {
+                if(!String.IsNullOrEmpty(value))
+                {
+                    _name = value;
+                }
+            }
+        }
+
+        private string _name;
 
         public GradeStatistics ComputeStatistics()
         {
